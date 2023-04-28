@@ -26,4 +26,19 @@ Keywords: Semi-supervised learning, Self-supervised Learning, Active learning, i
 segmentation, skin lesion
 
 
-![flow_chart](./image/Overall_flow_with_UNET.jpg)
+![flow_chart](https://github.com/lakmali240/CS685_Project/blob/main/Image/Overall_flow_with_UNET.jpg)
+
+
+## Dataset
+Download the ISIC 2017: International Skin Imaging Collaboration (ISIC) dataset from ISIC 2017 which composes of 2000 RGB dermoscopy images with binary masks of lesions.
+
+**Preprocess**: refer to the image pre-processing method in [CEAL ](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation).
+
++ Unlabeled Pool: 1600 samples
+
++ Labeled Pool: 400 samples
+
+## Installation
+```
+Install PyTorch 1.10.2 + CUDA 11.2 
+```
