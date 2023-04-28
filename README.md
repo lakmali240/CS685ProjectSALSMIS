@@ -42,3 +42,31 @@ Download the ISIC 2017: International Skin Imaging Collaboration (ISIC) dataset 
 ```
 Install PyTorch 1.10.2 + CUDA 11.2 
 ```
+
+## Pretrain
+
+### 1. Create the dataset
+```
+cd data
+run data.py
+```
+### 2. Self-Supervised Learning Model
+
+The U-Net framework for self-supervised learning (SSL) was established to extract features from an unlabeled dataset and store the weights of the SSL model for the purpose of pre-training the segmentation model.
+
+```
+cd Self-supervised
+run PreTrain.py
+```
+
+### 3. Active-Learning
+
+Subsequently, using the clustering outcomes obtained from the potential features extracted through SSL, a standard is formulated to choose significant samples from the unlabeled data. These selected samples constitute the starting dataset for the warm-up training process.
+
+```
+cd Active-Learning
+run Active_learning.npy
+```
+
+
+
