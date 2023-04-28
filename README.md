@@ -25,5 +25,5 @@ task compared to current baseline methods on the ISIC 2017 skin lesion dataset.
 Keywords: Semi-supervised learning, Self-supervised Learning, Active learning, image
 segmentation, skin lesion
 
-![](image/)
 
+![flow_chart](./image/Overall_flow_with_UNET.jpg)
