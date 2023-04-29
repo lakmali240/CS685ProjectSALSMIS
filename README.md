@@ -6,7 +6,7 @@ Implemented using Pytorch
 + Abstract
 + Dataset
 + Installation
-+ Training
++ STEPS
 
 ## Abstract
 Deep learning-based medical image segmentation models to be effective, require a large pool
