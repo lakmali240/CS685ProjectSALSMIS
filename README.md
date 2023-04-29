@@ -68,7 +68,7 @@ cd Active-Learning
 run Active_Learning.ipynb
 ```
 
-### 4. Training and Testing
+### 4. Semi-supervised Learning (Training and Testing)
 
 ```
 cd Semi-supervised-segmentation
