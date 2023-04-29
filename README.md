@@ -71,7 +71,7 @@ run Active_Learning.ipynb
 ### 4. Training and Testing
 
 ```
-cd Semi-supervised
+cd Semi-supervised-segmentation
 bash run.sh
 ```
 
