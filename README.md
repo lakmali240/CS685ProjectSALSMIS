@@ -30,9 +30,9 @@ segmentation, skin lesion
 
 
 ## Dataset
-Download the ISIC 2017: International Skin Imaging Collaboration (ISIC) dataset from ISIC 2017 which composes of 2000 RGB dermoscopy images with binary masks of lesions.
+Download the ISIC 2017:[International Skin Imaging Collaboration (ISIC) dataset from ISIC 2017](https://challenge.isic-archive.com/data/#2017) which composes of 2000 RGB dermoscopy images with binary masks of lesions.
 
-**Preprocess**: refer to the image pre-processing method in [CEAL ](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation).
+**Preprocess**: refer to the image pre-processing method in [CEAL](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation).
 
 + Unlabeled Pool: 1600 samples
 
