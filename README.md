@@ -65,7 +65,7 @@ Subsequently, using the clustering outcomes obtained from the potential features
 
 ```
 cd Active-Learning
-run Active_learning.npy
+run Active_Learning.ipynb
 ```
 
 
