@@ -43,7 +43,7 @@ Download the ISIC 2017: International Skin Imaging Collaboration (ISIC) dataset 
 Install PyTorch 1.10.2 + CUDA 11.2 
 ```
 
-## Pretrain
+## STEPS
 
 ### 1. Create the dataset
 ```
