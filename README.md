@@ -56,7 +56,7 @@ The U-Net framework for self-supervised learning (SSL) was established to extrac
 
 ```
 cd Self-supervised
-run PreTrain.py
+run Self_supervised.ipynb
 ```
 
 ### 3. Active-Learning
@@ -67,6 +67,15 @@ Subsequently, using the clustering outcomes obtained from the potential features
 cd Active-Learning
 run Active_Learning.ipynb
 ```
+
+### 4. Training and Testing
+
+```
+cd Semi-supervised
+bash run.sh
+```
+
+
 
 
 
