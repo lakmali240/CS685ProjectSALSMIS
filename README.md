@@ -7,6 +7,8 @@ Implemented using Pytorch
 + Dataset
 + Installation
 + STEPS
+++ 1. Create the dataset
+++ 2. Self-Supervised Learning Model
 
 ## Abstract
 Deep learning-based medical image segmentation models to be effective, require a large pool
